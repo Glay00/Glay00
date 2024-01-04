@@ -30,13 +30,22 @@
 
 ###
 
+
 <div align="center">
   <a href="https://t.me/de_glay_00">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="40" alt="telegram logo"  />
   </a>
+  <br>
   <a href="https://discord.gg/qsVx6AqG">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
 </div>
+
+
+###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glay00&show_icons=true&locale=en&layout=compact" alt="glay00" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glay00&show_icons=true&locale=en" alt="glay00" /></p>
 
 ###
