@@ -26,10 +26,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/IaPFB4meDccAAAAi/phetta-phettaverse.gif"  />
-
-###
-
 
 <div align="center">
   <a href="https://t.me/de_glay_00">
