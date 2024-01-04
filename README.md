@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Glay and i am a passionate backend developer from Russia.</h2>
+<h2 align="center">Hi, my name is Glay. <br> I'm a passionate backend developer from Russia.</h2>
 
 ###
 
@@ -24,8 +24,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="redis logo"  />
 </div>
 
+
 ###
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glay00&show_icons=true&locale=en&layout=compact" alt="glay00" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glay00&show_icons=true&locale=en" alt="glay00" /></p>
+
+###
+
+<p align="center">
+ <img width="900" src=".github/workflows/snake-github.svg" alt="snake"/>
+</p>
+
+###
+
+<h3 align="center">Connect with me: </h3>
+
+
+###
 
 <div align="center">
   <a href="https://t.me/de_glay_00">
@@ -35,12 +53,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
 </div>
-
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glay00&show_icons=true&locale=en&layout=compact" alt="glay00" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glay00&show_icons=true&locale=en" alt="glay00" /></p>
 
 ###
