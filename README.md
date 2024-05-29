@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/dear_glay_00">
+  <a href="https://t.me/dr_glay_00">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="40" alt="telegram logo"  />
   </a>
   <a href="https://discord.gg/qsVx6AqG">
